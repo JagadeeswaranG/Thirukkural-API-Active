@@ -1,0 +1,25 @@
+
+body{
+    background-color: gray;
+}
+.hai{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+    color: blue;
+}
+.valluvar{
+    text-align: center;
+    color: rebeccapurple;
+    font-size: 30px;
+}
+.gen{
+    text-align: center;
+   color: hwb(67 0% 90%);
+    font-size: 20px;  
+}
+.enter{
+    text-align: center;
+    color: darkmagenta;
+     font-size: 30px;     
+}
